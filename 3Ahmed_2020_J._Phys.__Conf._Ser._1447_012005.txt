@@ -1,0 +1,264 @@
+
+Journal of Physics: Conference Series
+PAPER  OPEN ACCESS You may also like
+A Wearable Flexible antenna integrated on a -Dynamic mechanical analysis for rapid
+assessment of the time-dependent
+recovery behavior of shape memory
+Smart Watch for 5G Applications
+polymers
+Charly Azra, Christopher J G Plummer and
+Jan-Anders E Månson
+To cite this article: M I Ahmed and M F Ahmed 2020 J. Phys.: Conf. Ser. 1447 012005 -Elastic and anelastic relaxations in the
+relaxor ferroelectric Pb(Mg Nb )O : II.
+1/3 2/3 3
+Strainorder parameter coupling and
+  dynamic softening mechanisms
+M A Carpenter, J F J Bryson, G Catalan et
+al.
+View the article online for updates and enhancements.
+-Dielectric losses in multi-layer Josephson
+junction qubits
+David Gunnarsson, Juha-Matti
+Pirkkalainen, Jian Li et al.
+This content was downloaded from IP address 125.99.106.138 on 17/08/2022 at 05:51
+ 
+ICaTAS 2019 IOP Publishing
+J ournal of Physics: Conference Series 1447 (2020) 012005 doi:10.1088/1742-6596/1447/1/012005
+ 
+ 
+ 
+ 
+A Wearable Flexible antenna integrated on a Smart Watch 
+for 5G Applications 
+M I Ahmed *, 1 and M F Ahmed2  
+1Microstrip Department, Electronics Research Institute, Giza, Egypt 
+2Department of Electronics and communications Engineering, Faculty of Engineering, 
+Zagazig University, Zagazig, Egypt 
+ 
+ 
+E-mail: miahmed@eri.sci.eg*, 1 and mfabdelhalim@zu.edu.eg2 
+ 
+Abstract. This paper presents a design of dual-band flexible wearable antenna for modern 5G 
+applications to integrate on a smartwatch. This antenna is a rectangular antenna which the 
+patch and the ground etched on new flexible material is called "ULTRALAM® 3850HT. This 
+material is characterized by thin flexible cores with low and stable dielectric constant, which is 
+a key requirement for high frequency and wearable designs. The dielectric constant  is equal 
+r
+to 3.14, and loss tangent tan is equal 0.005 of the ULTRALAM® 3850HT flexible material. 
+The presented antenna is designed to operate at 38 GHz and 60 GHz. The SAR (specific 
+absorption ratio) is also introduced and SAR results will be shown. The presented antenna with 
+and without the smartwatch are simulated using HFSS and CST 2018. 
+1. Introduction 
+There are many problems that wireless communications in 4G such as frequency resources for their 
+customers are not enough [1]. Therefore, the millimeter wave technology offers a new model of 
+wireless communication in various fields including mobile devices, automobiles, military, medical and 
+many more [2]. The mm-wave frequencies are the most suitable for broadband requirements in 
+telecommunication systems that provide a frequency range in millimeter (20-300 GHz). Of these 
+ranges, select four resonance frequencies of 26, 28, 38 and 60 GHz, where the antenna is required at 
+these  frequencies  to  use  the  current  5G  spectrum  simultaneously  [3].  The  main  advantage  of 
+millimeter wave technology is to reduce the volume of the devices because they have very high 
+resonance frequencies and thus the smaller size of the antenna; also, high speed and high capacity [4]. 
+There are also two bands of 5G technology other than the millimeter frequency band, the "5G low 
+band" and the "5G average band" that use frequencies from 600 MHz to 6 GHz, especially 3.5-4.2 
+ContentfromthisworkmaybeusedunderthetermsoftheCreativeCommonsAttribution3.0licence.Anyfurtherdistribution
+ofthisworkmustmaintainattributiontotheauthor(s)andthetitleofthework,journalcitationandDOI.
+PublishedunderlicencebyIOPPublishingLtd 1
+ 
+ICaTAS 2019 IOP Publishing
+J ournal of Physics: Conference Series 1447 (2020) 012005 doi:10.1088/1742-6596/1447/1/012005
+ 
+ 
+ 
+ 
+GHz [5]. But this paper interests only by the frequency band of millimeter wave technology for fifth-
+generation applications. On the other hand, when any antenna attached or closed to the human body is 
+called wearable antenna. The wearable antenna or antenna worn by the body radiates electromagnetic 
+waves that are absorbed by human body tissues [6]. The absorption of these waves will cause damage 
+and burn human tissues. It is, therefore, necessary to reduce the interaction of electromagnetic energy 
+towards human body tissues from wearable antennas when used. Electromagnetic wave absorption is 
+measured from human tissue at a specific absorption rate [7]. Besides, the SAR limit is based on the 
+Standardization Committee and is varied in different regions around the world. In the United States 
+regulated by the Federal Communications Commission (FCC), where the maximum acceptable value 
+of SAR 1.6 W / kg, with an average of more than 1 gram of tissue [8]. However; in Europe, the 
+maximum  acceptable  SAR  2.0  W  /  kg  as  averaged  over  10  grams  of tissue  organized  by  the 
+International Commission on Non-Ionizing Radiation Protection (ICNIPR) [8]. 
+In this paper, the dual-band flexible wearable fifth-generation mm-wave antenna is designed and 
+simulated to integrate it into a simulated smartwatch. The antenna design is a rectangular antenna 
+included six U-slots on the patch. The patch and the ground plane etched on new flexible material as a 
+substrate is called ULTRALAM® 3850HT. This antenna is designed to operate at two resonance 
+frequencies 38 GHz and 60 GHz. The presented antenna is a body-worn antenna where its integrated 
+into the smartwatch. So, the SAR (specific absorption ratio) value should be calculated for the 
+presented design. Furthermore, the antenna and the smartwatch are simulated using two different 
+techniques. These are HFSSTM from Ansoft which used FEM and CST STUDIO SUITETM 2018 
+which used FIT. The two software packages are different; therefore the second has been used to 
+confirm the results determined using the first. Also, good agreement is obtained between these results. 
+2. Antenna Design 
+Figure 1 shows the simulated geometry of the proposed dual-band rectangular millimeter-wave 
+antenna. This proposed antenna includes six U-slots loaded on the top of the patch specially designed 
+to achieve the dual-band concept with good impedance matching. The patch and the ground plane are 
+rectangular and etched on the opposite sides of new flexible material is called "ULTRALAM® 
+3850HT" as a substrate with very thin thickness h = 0.05 mm to achieve the flexibility for the 
+wearable  antenna,  relative  permittivity    =  3.14  and  tan  ()  =  0.005.  Also,  this  material  is 
+r
+characterized by low and stable dielectric constant. The optimized dimensions are tabulated in Table 1. 
+2
+ 
+ICaTAS 2019 IOP Publishing
+J ournal of Physics: Conference Series 1447 (2020) 012005 doi:10.1088/1742-6596/1447/1/012005
+ 
+ 
+ 
+ 
+ 
+         (a)                                                 (b) 
+Figure 1. The geometry of Proposed Rectangular Wearable Antenna: (a) Top and (b) Back view. 
+Table 1. The Proposed Antenna Dimensions  
+Wg  Lg  A1  B1  A2  B2  A3  B3  M  N  S  g  Wf  Lf 
+20  33.5  6.5  9.7  4.5  7.12  2.5  3.12  4.1  2  1  0.2  0.1  10 
+ 
+3. Results and Discussion 
+The  simulation  analysis  of  the  presented  antenna  is  carried  out  by  applying  differently  two 
+commercial software packages are called HFSS from Ansoft and CST 2018 to confirm the results. The 
+simulation of the return loss S11 for the proposed rectangular wearable antenna is shown in Figure 2. 
+From the results obtained, this presented antenna is operated at two resonance frequencies 38GHz and 
+60 GHz at the same time for 5G Applications. Also, there is a little shift between two results due to the 
+two software packages are different where the HFSSTM from Ansoft used FEM and CST STUDIO 
+SUITETM 2018 used FIT. The simulation results are mentioned in Table 2. Furthermore, the radiation 
+pattern of the presented antenna in both planes: E-plane and H-plane are shown in Figure 3. 
+ 
+Figure 2. The Return Loss against Frequency for the Proposed Antenna. 
+3
+ 
+ICaTAS 2019 IOP Publishing
+J ournal of Physics: Conference Series 1447 (2020) 012005 doi:10.1088/1742-6596/1447/1/012005
+ 
+ 
+ 
+ 
+Table 2. Simulation Results of the Proposed Antenna for 5G Applications 
+Frequency Bands 
+Return Loss S11 (dB)  Gain (dB)  Total Efficiency (%) 
+(GHz) 
+37.949-38.391  -13.996  2.19  69.2 
+59.497-60.154  -19.268  4.43  73.7 
+ 
+ 
+   
+(a)  (b) 
+Figure 3. Radiation Pattern for Proposed Antenna in E-plane, H-plane at (a) 38, (b) 60 GHz. 
+4. Smart Watch Design 
+Nowadays, the field of smart wearable devices like smartwatches is growing rapidly and has 
+attracted great attentions from publications and industries [9]. Generally, the wearable smartwatch 
+antennas represent many challenges for a design engineer. It should be lightweight, flexible, small 
+size, low profile and cost and also easy to integrate or carry by the human hand [10]. In this chapter, a 
+smartwatch is designed, simulated and attached with a millimeter-wave antenna to operate on 5G 
+wireless technologies.  Figure 4 illustrates the geometry of the watch with a practical size. This watch 
+consists of two parts: the watch body and rubber straps. The dimensions and materials properties of 
+the watch are tabulated in Table 3. 
+ 
+ 
+Figure 4. The Geometry of Smart Watch 
+ 
+4
+ 
+ICaTAS 2019 IOP Publishing
+J ournal of Physics: Conference Series 1447 (2020) 012005 doi:10.1088/1742-6596/1447/1/012005
+ 
+ 
+ 
+ 
+Table 3. The Dimensions and the Materials Properties of the Watch 
+Watch                            Smart Watch                                      Strap 
+Dimensions  Dimensions
+Material: Alumina  Material: Rubber 
+(mm)  (mm) 
+Dielectri
+c  Loss  Dielectric  Loss 
+Thick.  Rw  Xw  Yw  Thick.  Ws  Ls 
+Constan Tangent  Constant  Tangent 
+t 
+6  9.4  0.0004  23.5  7.96  28  1.9  3  0.0025  74  20 
+Next, the presented antenna above is integrated onto the designed watch to be smart. The antenna 
+is placed near the main PCB board to obtain the required input power from the internal battery of the 
+watch. The smartwatch with the proposed rectangular millimeter-wave antenna is shown in Figure 5a 
+and the simulated return loss for the first proposed rectangular antenna with and without smartwatch is 
+plotted in Figure 5b. From these results, there is a little shift in the return loss with the frequency; this 
+is due to the presence of the smartwatch. 
+ 
+(a) 
+ 
+(b) 
+Figure 5. Smartwatch with proposed antenna: (a) Geometry and (b) S11 against frequency. 
+5
+ 
+ICaTAS 2019 IOP Publishing
+J ournal of Physics: Conference Series 1447 (2020) 012005 doi:10.1088/1742-6596/1447/1/012005
+ 
+ 
+ 
+ 
+5. SAR Calculations 
+It is important to make sure that the humans are exposed to less electromagnetic waves and the 
+presented smartwatch is safe. For these reasons, the specific absorption ratio (SAR) is studied, which 
+must be  satisfied the  international safety standards, FCC (SAR<1.6W/kg over 1g) and ICNIRP 
+(SAR<2W/kg over 10g). Figure 6 illustrates the simulated SAR distribution for the smartwatch with 
+the proposed millimeter-wave antenna and attached to the human hand model at two resonances 
+frequencies 38, and 60 GHz. These results are mentioned in Table 4. From these results, notes that all 
+the SAR values results do not exceed unity.  
+   
+(a)  (b) 
+Figure 6. SAR on human hand model with the smartwatch at (a) 38 GHz, and (b) 60 GHz. 
+Table 4.  Maximum SAR values by FCC (1g) and ICNIPR (10g) standards. 
+Frequency 
+                  10 g                                                 1g 
+(GHz) 
+38  0.153  0.326 
+60  0.352  0.631 
+6. Conclusion 
+In this paper, a flexible wearable dual-band antenna is analyzed and simulated for integration onto 
+a simulated watch to make it smart for modern wireless 5G networks. This wearable antenna combines 
+the hardness and flexibility in that one which is made of a material called ULTRALAM® 3850HT. 
+This material is characterized by thin flexible cores with low and stable dielectric constant. This 
+antenna is designed to operate at two resonance frequencies 38 GHz and 60 GHz. In this paper, the 
+SAR value is very low, thus this smartwatch operated properly in the nearness of the human body. The 
+presented antenna with the simulated smartwatch is simulated using HFSS and CST STUDIO SUITE 
+2018.  
+6
+ 
+ICaTAS 2019 IOP Publishing
+J ournal of Physics: Conference Series 1447 (2020) 012005 doi:10.1088/1742-6596/1447/1/012005
+ 
+ 
+ 
+ 
+7. References 
+[1]  Huang, H. C. Overview of antenna designs and considerations in 5G cellular phones. 
+International Workshop on Antenna Technology (iWAT). 2018. 
+[2]  Jajere,  A.  M.  "Millimeter-Wave  Patch  Antenna  Design  Antenna  for  Future  5g 
+Applications." International Journal of Engineering Research & Technology (IJERT). 2017, 
+6(2), 298-291. 2017. 
+[3]  Jun, L. L.,  H. L.  Miao, and L. Hui. Design of a slot antenna for future 5G wireless 
+communication systems. Progress in Electromagnetics Research Symposium - Spring 
+(PIERS). 2017. 
+[4]  Abdullah, G., L. Xichun, L. Yang, O. Zakaria, and N. B. Anuar. Multi-Bandwidth Data 
+Path Design for 5GWireless Mobile Internets. IEEE Wseas Transactions on Information 
+Science and Applications. 2009, 6(2), 1790-0832. 2009. 
+[5]  Janevski,  T.  5G  Mobile  Phone  Concept.  IEEE  Consumer  Communications  and 
+Networking Conference. 2009, 1(2), 4244- 2308. 2009. 
+[6]  Sunohara T., I. Laakso, A. Hirata, and T. Onishi. "Induced field and SAR in human body 
+model  due  to  wireless  power  transfer  system  with  induction  coupling."  IEEE 
+Electromagnetic Compatibility. 2014, 41, 40-48. 2014. 
+[7]  Hirata,  A.,  O.  Fujiwara,  T.  Nagaoka,  and  S.  Watanabe.  "Estimation  of  Whole-Body 
+Average SAR in Human Models Due to Plane-Wave Exposure at Resonance Frequency." 
+IEEE Transactions on Electromagnetic Compatibility. 2010, 59, 41-48. 2010. 
+[8]  Zhao,  K.,  S.  Zhang,  C.  Chiu,  Z.  Ying  and  S.  He.  "SAR  Study  for  SmartWatch 
+Applications." Antennas and Propagation Society International Symposium (APSURSI), 
+Memphis, U.S. 2014. 
+[9]  Wu, C., K. Wong, Y. Lin, S. Su. Conformal Bluetooth antenna for the watch-type wireless 
+communication device application." IEEE Antennas and Propagation Society International 
+Symposium. 2007, 9(15), 4156- 4159. 2007. 
+[10]  Hamouda, H., P. L. Thuc, R. Staraj and G. Kossiavas. Small antenna embedded in a wrist-
+watch for application in telemedicine. European Conference on Antennas and Propagation 
+(EuCAP). 2014, 6(11), 876- 879. 2014. 
+ 
+7

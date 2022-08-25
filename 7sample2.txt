@@ -1,0 +1,42 @@
+
+LOR 
+I have had the pleasure of knowing Bhavesh on a personal level for many years as I was his mentor. I 
+have seen him grow into a brilliant professional researcher. He is highly motivated due to his enthusiastic 
+character and always wants to learn more. What I admire most about his personality is the way he 
+challenges himself in different aspects. Over the years, I have witnessed him challenge himself in his 
+academics and professional life.  
+I am proud to say that during his period as a research intern, he has gone to take on several challenging 
+assignments that have enabled him to expand on his skills. He has good knowledge of cloud computing & 
+digital forensics and a knack for solving complicated problems. He has also shown similar abilities while 
+working on the Cloud Forensics: Threat Assessment and Proposed Mitigations research project. As the 
+paper's initial author, he used his extraordinary technical skills to research threats and suggested 
+mitigations. His consistent hard work and dedication to this project got it published in IEEE Xplore. 
+Events like these show that his perseverance is his finest attribute.  
+In addition, he worked on Scraping IOCs to better evaluate certain malware tactics and behaviors, which 
+was a significant project. His ability to swiftly understand concepts and put them into practice enabled 
+him in implementing Flask to host the website and the Pastebin Scraping API to collect the IOCs along 
+with coming up with the Elastisearch and Kibana for data storage and visualization. The following project 
+he worked on was "Threat Detection and Security Log Analysis Using Splunk SIEM." He spent many 
+hours researching this tool and generating logs every day to have a complete grasp of it. It took him a few 
+weeks to understand the Splunk tool, but with his perseverance and desire to learn from feedback, he was 
+ultimately able to use it for his research. His enthusiasm and curiosity throughout the projects had a 
+significant role in their successful conclusion. 
+I was astounded to see that he was not only devoting his time to the research but was also publishing 
+white papers to share his knowledge with the community via Null-The Open Security Community. I was 
+especially pleased by his voluntary efforts as a judge for the Trace Labs-organized Global OSINT CTF. 
+I'm content to watch the students I've mentored utilize science to address real-world problems. 
+Aside from his research and volunteering work, Bhavesh has also competed and won in various national 
+hackathons, and global Capture The Flag events, along with obtaining an EC Council practical 
+scholarship. His endeavors also involved planning and handling events like Hackathons, seminars, 
+workshops, etc. His work during these events showcased his exceptional time management and also 
+proved that he thrives in leadership and managerial positions. 
+In my capacity as his professor and mentor, I confidently affirm that he has gained enough experience and 
+has shown great potential throughout his years as a student and an intern. Apart from this, he is very 
+optimistic and is curious to learn new things. He is very responsible for his duties and is quite reliable. He 
+is among the top 10% of the students I have had the opportunity to teach and mentor because of his sense 
+of accountability and genuine interest in the topic. Therefore without any hesitation, I highly recommend 
+him for the Master's program at your university. 
+Regards, 
+Dr. Dilip Motwani 
+Professor 
+Vidyalankar Institute of Technology 
