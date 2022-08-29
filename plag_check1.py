@@ -93,7 +93,7 @@ for data in check_plagiarism():
     #print(strftime("%H:%M:%S"), " pdf  -> txt ")
     
     print(data)    
-    print (((t2-t1)/1000))
+print (((t2-t1)/1000))
 
     
  
